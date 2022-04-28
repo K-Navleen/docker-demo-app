@@ -1,2 +1,2 @@
-# docker-demo-app
-running app in docker container
+# Docker running a django app
+running django app in docker container
